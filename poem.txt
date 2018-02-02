@@ -1,8 +1,10 @@
-black
+black and violet 
 
 purple
 red
 blue 
 Brown
+violet
 green
 random colour
+add violet colour
