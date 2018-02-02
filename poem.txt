@@ -1,0 +1,8 @@
+black
+
+purple
+red
+blue 
+orange
+white
+random colour
